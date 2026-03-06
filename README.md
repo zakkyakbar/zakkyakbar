@@ -40,7 +40,7 @@ linkedin: www.linkedin.com/in/muhammad-zakky-akbar-a06b46327
 
 ---
 
-⭐ How to Use This Repository
+##⭐ How to Use This Repository
 
 Recruiters and hiring managers can:
 
@@ -56,4 +56,4 @@ Thank you for visiting my Financial Analyst Portfolio.
 
 ---
 
-⭐ Building my portfolio to become a professional **Finance Analyst**.
+#Building my portfolio to become a professional **Finance Analyst**.
