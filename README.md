@@ -56,4 +56,4 @@ Thank you for visiting my Financial Analyst Portfolio.
 
 ---
 
-# Building my portfolio to become a professional **Finance Analyst**.
+📂 Building my portfolio to become a professional **Finance Analyst**.
