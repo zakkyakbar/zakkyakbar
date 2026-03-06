@@ -35,8 +35,8 @@ My goal is to turn financial data into insights that support better decision mak
 ---
 
 ## 📫 Contact
-*Email: akbarzakky485@gmail.com
-*LinkedIn: https://www.linkedin.com/in/muhammad-zakky-akbar 
+- Email: akbarzakky485@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammad-zakky-akbar 
 
 ---
 
@@ -44,13 +44,13 @@ My goal is to turn financial data into insights that support better decision mak
 
 Recruiters and hiring managers can:
 
-*Review financial analysis case studies organized by project folders.
+- Review financial analysis case studies organized by project folders.
 
-*Explore real financial analysis projects including revenue analysis, financial ratios, and company performance insights.
+- Explore real financial analysis projects including revenue analysis, financial ratios, and company performance insights.
 
-*See how financial data can be transformed into meaningful insights to support business and investment decisions.
+- See how financial data can be transformed into meaningful insights to support business and investment decisions.
 
-*Assess the tools, analytical methods, and financial analysis techniques used in each project.
+- Assess the tools, analytical methods, and financial analysis techniques used in each project.
 
 Thank you for visiting my Financial Analyst Portfolio.
 
