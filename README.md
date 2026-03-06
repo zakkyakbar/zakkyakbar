@@ -1,6 +1,6 @@
-# 📊 Financial Analyst Portfolio
+## Hi, i`m Zakky Akbar
 
-## 🧑‍💻 Zakky Akbar
+# 📊 Financial Analyst Portfolio
 
 Aspiring **Finance Analyst** passionate about turning financial data into insights.
 
