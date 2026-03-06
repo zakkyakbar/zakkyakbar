@@ -11,11 +11,11 @@ My goal is to turn financial data into insights that support better decision mak
 ---
 
 ## 🛠 Skills
-- Python (Pandas, NumPy, Matplotlib)
-- Microsoft Excel
-- Tableau
-- Financial Data Analysis
-- Data Visualization
+![Excel](https://img.shields.io/badge/Excel-Modeling-green)
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![SQL](https://img.shields.io/badge/SQL-Analytics-grey)
+![Financial Analysis](https://img.shields.io/badge/FP&A-Financial%20Planning-blue)
 
 ---
 
