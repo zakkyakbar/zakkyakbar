@@ -36,7 +36,7 @@ My goal is to turn financial data into insights that support better decision mak
 
 ## 📫 Contact
 Email: akbarzakky485@gmail.com
-linkedin: www.linkedin.com/in/muhammad-zakky-akbar-a06b46327
+[LinkedIn](https://www.linkedin.com/in/muhammad-zakky-akbar)
 
 ---
 
