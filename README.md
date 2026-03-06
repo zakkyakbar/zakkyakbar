@@ -1,6 +1,14 @@
-# Hi, I'm Zakky Akbar 👋
+# 📊 Financial Analyst Portfolio
 
-📊 Aspiring Finance Analyst passionate about turning financial data into insights.
+## 🧑‍💻 Zakky Akbar
+
+Aspiring **Finance Analyst** passionate about turning financial data into insights.
+
+![Excel](https://img.shields.io/badge/Excel-Modeling-green)
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![SQL](https://img.shields.io/badge/SQL-Analytics-grey)
+![Financial Analysis](https://img.shields.io/badge/FP&A-Financial%20Planning-blue)
 
 ---
 
@@ -11,11 +19,11 @@ My goal is to turn financial data into insights that support better decision mak
 ---
 
 ## 🛠 Skills
-![Excel](https://img.shields.io/badge/Excel-Modeling-green)
-![Python](https://img.shields.io/badge/Python-Analytics-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
-![SQL](https://img.shields.io/badge/SQL-Analytics-grey)
-![Financial Analysis](https://img.shields.io/badge/FP&A-Financial%20Planning-blue)
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Excel
+- Tableau
+- Financial Data Analysis
+- Data Visualization
 
 ---
 
