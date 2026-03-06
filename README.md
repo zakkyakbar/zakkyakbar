@@ -40,4 +40,20 @@ linkedin: www.linkedin.com/in/muhammad-zakky-akbar-a06b46327
 
 ---
 
+⭐ How to Use This Repository
+
+Recruiters and hiring managers can:
+
+*Review financial analysis case studies organized by project folders.
+
+*Explore real financial analysis projects including revenue analysis, financial ratios, and company performance insights.
+
+*See how financial data can be transformed into meaningful insights to support business and investment decisions.
+
+*Assess the tools, analytical methods, and financial analysis techniques used in each project.
+
+Thank you for visiting my Financial Analyst Portfolio.
+
+---
+
 ⭐ Building my portfolio to become a professional **Finance Analyst**.
